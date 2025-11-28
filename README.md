@@ -1,6 +1,8 @@
 # Brute-Force-Santander-2025
 Este repositório registra o processo de análise e troubleshooting que fiz ao tentar ativar serviços e abrir portas em uma máquina Metasploitable 2 usada para estudos de pentest e cibersegurança. 🖥️👨‍💻
 
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/c6bcf2d6-e710-4ee5-9085-ac78701a378d" />
+
 Existem várias formas de ataques de força bruta, cada uma funcionando de um jeito diferente. Aqui vai uma explicação mais clara e humana sobre as principais:
 
 ## Ataque simples de força bruta:
